@@ -1,2 +1,2 @@
 # socket
-socket client
+this is an example of socket client.
