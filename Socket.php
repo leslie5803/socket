@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Zeno
- * Date: 2018/11/5
- * Time: 15:24
- */
-
 
 /**
  * socket 创建失败
